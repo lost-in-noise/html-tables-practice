@@ -64,11 +64,9 @@ col.col-region {
 col.col-sales {
   width: 20%;
 }
+col.col-revenue {
+  width: 20%;
+}
 col.col-notes {
   width: 10%;
-}
-
-td:nth-child(4),
-td:nth-child(5) {
-  text-align: right;
 }
